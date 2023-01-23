@@ -1,0 +1,13 @@
+name: Stock_Prediction
+title: Stock_Prediction
+username:
+account: 91sdty-xiaokai-ma
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8073028
+bundleId: 6762356
+url: https://91sdty-xiaokai-ma.shinyapps.io/Stock_Prediction/
+when: 1674447423.96726
+lastSyncTime: 1674447423.96727
+asMultiple: FALSE
+asStatic: FALSE
